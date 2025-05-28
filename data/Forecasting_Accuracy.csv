@@ -1,0 +1,4 @@
+Region,Historical Accuracy (%),Post-Model Accuracy (%),Buffer Days Added,Stockouts Avoided
+North America,72.5,89.4,2,300
+Europe,68.0,87.2,3,420
+Asia,65.3,85.9,4,510

@@ -1,0 +1,10 @@
+Region,Month,Units Shipped,Units Spoiled,On-Time Delivery (%),Avg Temp (°C)
+North America,Jan,100000,200,95.5,-70.0
+North America,Feb,95000,300,94.3,-69.8
+North America,Mar,105000,180,96.2,-70.2
+Europe,Jan,98000,400,93.8,-70.1
+Europe,Feb,97000,350,94.0,-69.5
+Europe,Mar,102000,220,95.0,-69.9
+Asia,Jan,110000,500,92.5,-70.3
+Asia,Feb,108000,460,93.0,-70.4
+Asia,Mar,115000,410,94.8,-69.7
